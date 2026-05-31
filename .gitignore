@@ -1,0 +1,12 @@
+
+# Ignore datasets and images
+data/
+Train/
+*.jpg
+*.png
+*.jpeg
+
+# Ignore Jupyter checkpoints and logs
+.ipynb_checkpoints/
+__pycache__/
+*.zip
